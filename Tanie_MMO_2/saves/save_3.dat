@@ -1,0 +1,3119 @@
+epikurgaming
+Player: {
+epikur, name
+100, max health points
+10, absolute damage of player
+1, level
+1, x-cord
+1, y-cord
+0, experience
+1000, next level experience
+}
+Player equipment IDs: {
+}
+Inventory IDs: {}
+Mobs: {
+{
+Goblin, name
+1, level
+1, x-cord
+13, y-cord
+}
+{
+Goblin, name
+1, level
+1, x-cord
+45, y-cord
+}
+{
+Goblin, name
+1, level
+1, x-cord
+47, y-cord
+}
+{
+Goblin, name
+1, level
+1, x-cord
+82, y-cord
+}
+{
+Goblin, name
+1, level
+1, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+1, x-cord
+89, y-cord
+}
+{
+Goblin, name
+1, level
+2, x-cord
+5, y-cord
+}
+{
+Goblin, name
+1, level
+2, x-cord
+32, y-cord
+}
+{
+Goblin, name
+1, level
+2, x-cord
+55, y-cord
+}
+{
+Goblin, name
+1, level
+2, x-cord
+86, y-cord
+}
+{
+Goblin, name
+1, level
+2, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+2, x-cord
+93, y-cord
+}
+{
+Goblin, name
+1, level
+2, x-cord
+94, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+27, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+32, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+43, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+47, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+52, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+79, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+81, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+82, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+83, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+85, y-cord
+}
+{
+Goblin, name
+1, level
+3, x-cord
+87, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+28, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+29, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+55, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+68, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+78, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+93, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+97, y-cord
+}
+{
+Goblin, name
+1, level
+4, x-cord
+99, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+20, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+34, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+44, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+53, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+57, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+76, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+79, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+87, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+89, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+91, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+92, y-cord
+}
+{
+Goblin, name
+1, level
+5, x-cord
+97, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+18, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+38, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+39, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+41, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+42, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+60, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+61, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+67, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+70, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+6, x-cord
+96, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+20, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+38, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+43, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+64, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+71, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+73, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+84, y-cord
+}
+{
+Goblin, name
+1, level
+7, x-cord
+94, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+9, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+10, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+12, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+14, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+21, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+24, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+33, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+37, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+62, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+75, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+85, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+91, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+92, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+8, x-cord
+97, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+4, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+9, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+11, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+12, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+29, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+37, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+67, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+70, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+72, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+73, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+77, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+90, y-cord
+}
+{
+Goblin, name
+1, level
+9, x-cord
+92, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+1, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+3, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+68, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+70, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+71, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+78, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+80, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+10, x-cord
+98, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+3, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+5, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+17, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+39, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+47, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+52, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+57, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+63, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+78, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+93, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+97, y-cord
+}
+{
+Goblin, name
+1, level
+11, x-cord
+98, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+4, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+27, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+31, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+56, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+59, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+66, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+76, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+90, y-cord
+}
+{
+Goblin, name
+1, level
+12, x-cord
+92, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+6, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+9, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+13, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+14, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+16, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+32, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+42, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+44, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+52, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+65, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+66, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+76, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+94, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+96, y-cord
+}
+{
+Goblin, name
+1, level
+13, x-cord
+98, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+9, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+10, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+22, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+31, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+40, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+43, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+53, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+56, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+57, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+66, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+67, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+68, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+69, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+87, y-cord
+}
+{
+Goblin, name
+1, level
+14, x-cord
+96, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+6, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+8, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+9, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+17, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+40, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+55, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+57, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+59, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+64, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+75, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+81, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+83, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+89, y-cord
+}
+{
+Goblin, name
+1, level
+15, x-cord
+90, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+1, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+6, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+20, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+24, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+28, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+30, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+67, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+77, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+80, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+89, y-cord
+}
+{
+Goblin, name
+1, level
+16, x-cord
+97, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+6, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+34, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+56, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+59, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+75, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+87, y-cord
+}
+{
+Goblin, name
+1, level
+17, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+27, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+28, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+30, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+38, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+39, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+56, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+67, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+74, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+77, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+79, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+82, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+83, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+87, y-cord
+}
+{
+Goblin, name
+1, level
+18, x-cord
+91, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+10, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+17, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+24, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+29, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+30, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+68, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+69, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+75, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+79, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+84, y-cord
+}
+{
+Goblin, name
+1, level
+19, x-cord
+91, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+15, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+54, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+73, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+77, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+82, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+20, x-cord
+90, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+10, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+11, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+12, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+14, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+24, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+34, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+48, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+51, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+52, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+68, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+83, y-cord
+}
+{
+Goblin, name
+1, level
+21, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+7, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+10, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+15, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+16, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+21, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+39, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+40, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+44, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+45, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+49, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+56, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+69, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+72, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+74, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+76, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+83, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+93, y-cord
+}
+{
+Goblin, name
+1, level
+22, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+7, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+15, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+22, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+28, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+34, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+39, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+40, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+43, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+48, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+61, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+62, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+74, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+81, y-cord
+}
+{
+Goblin, name
+1, level
+23, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+8, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+9, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+17, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+20, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+27, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+41, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+42, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+56, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+77, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+87, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+94, y-cord
+}
+{
+Goblin, name
+1, level
+24, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+5, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+14, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+27, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+28, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+29, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+39, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+41, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+42, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+69, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+70, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+78, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+79, y-cord
+}
+{
+Goblin, name
+1, level
+25, x-cord
+80, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+18, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+32, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+35, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+39, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+42, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+48, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+65, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+85, y-cord
+}
+{
+Goblin, name
+1, level
+26, x-cord
+99, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+16, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+21, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+24, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+33, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+50, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+57, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+59, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+68, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+79, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+93, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+27, x-cord
+98, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+2, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+4, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+5, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+7, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+8, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+11, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+18, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+20, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+28, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+35, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+40, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+55, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+60, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+71, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+86, y-cord
+}
+{
+Goblin, name
+1, level
+28, x-cord
+96, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+7, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+11, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+17, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+18, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+51, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+52, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+57, y-cord
+}
+{
+Goblin, name
+1, level
+29, x-cord
+70, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+18, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+25, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+32, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+38, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+40, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+47, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+54, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+63, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+67, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+74, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+76, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+79, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+85, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+86, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+94, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+30, x-cord
+96, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+13, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+30, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+33, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+42, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+47, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+51, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+62, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+76, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+82, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+83, y-cord
+}
+{
+Goblin, name
+1, level
+31, x-cord
+96, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+11, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+14, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+16, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+22, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+44, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+70, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+76, y-cord
+}
+{
+Goblin, name
+1, level
+32, x-cord
+78, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+2, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+10, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+16, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+33, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+37, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+43, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+48, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+50, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+56, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+58, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+68, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+69, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+74, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+86, y-cord
+}
+{
+Goblin, name
+1, level
+33, x-cord
+87, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+6, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+15, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+18, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+21, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+23, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+30, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+36, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+48, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+73, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+81, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+92, y-cord
+}
+{
+Goblin, name
+1, level
+34, x-cord
+95, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+4, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+8, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+14, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+15, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+20, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+21, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+29, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+40, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+45, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+49, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+72, y-cord
+}
+{
+Goblin, name
+1, level
+35, x-cord
+99, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+3, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+5, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+14, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+37, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+41, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+59, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+62, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+78, y-cord
+}
+{
+Goblin, name
+1, level
+36, x-cord
+96, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+2, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+8, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+15, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+41, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+46, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+65, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+81, y-cord
+}
+{
+Goblin, name
+1, level
+37, x-cord
+82, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+2, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+11, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+12, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+16, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+18, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+19, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+25, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+26, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+31, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+45, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+47, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+63, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+65, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+66, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+70, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+72, y-cord
+}
+{
+Goblin, name
+1, level
+38, x-cord
+88, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+1, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+2, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+8, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+30, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+34, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+47, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+48, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+62, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+72, y-cord
+}
+{
+Goblin, name
+1, level
+39, x-cord
+97, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+3, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+7, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+11, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+24, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+25, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+33, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+48, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+53, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+54, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+57, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+74, y-cord
+}
+{
+Goblin, name
+1, level
+40, x-cord
+77, y-cord
+}
+};
+Map: {
+1011001101010001001010110010010011101100111100110010101100110100011110110010001010110101010101111001
+1000010000010111010111100010010010011101001111010011000110100111000011000011101100101010110101100010
+1000210000000011002111120021100211111222201100210000212111000000000020000211100122021212121211110001
+1002110000000000001111112111222111111111111100110002111111100000000210000011121111111111111111110020
+1000000000000000021111211111111111111111111122200002111111100000000212000001111112111011111111111111
+0000000000000000021110011111200111111111111111100000111001200222221111121121111100110011111111111110
+1100002122220000001122021202000211211111111211100000001201111111111111111111021000212210111111111110
+1000011111112222221111101002100011110211111111000000011111111111100211110112111100211111111211111111
+0000211111111111111111011211120001121110211110000000021111111112002111100111111220211111111111110111
+1021111111111111001111111111110000111102111000000000211111111111001121111110111111012112111111100211
+0111111111111112021111111111002222111111110000000000111111211111000211111002111112100011111112102110
+1111111111111111111111021111021111111111121222212121111121111111221110110021111111000021211111111110
+0011111111111211111112100011011111111100111111111111111111111111111200000011111122000001111111111120
+1102111111111110111111100002111111102100001110001102111111111110111022000002111111122221211111111111
+0100111111111102111001122211111111101122121112211111111111111111111111200021111111111111111111111110
+0000011111111001111220111111111112121111111111111111202111111111111100000111111111111111111111112111
+0100021111102200111111011111111111111111002121111111002111111011111122202111211112111111110111111111
+1000001110211100211211212111111100120210000001110002100211112121011111111121111111111121120211110210
+0000001111111200011100211111111000001111200002122001120210211110211111111110211111110001111110000020
+1100021111111000211220211111111200211111110021110002111200210200211111102121111111111211111110000000
+1000211121111201111111002111111001111110000001120001111122000000210111111111111111111111111112200000
+1002111111111111211112211111112002111122000021111211111111000021022111111111111111111111111111112021
+0111111111111111111111112001111201112111122111111112121112000212021111101111110021111001120011111111
+0111111100110011111111111221111112100111111102111000111111121111101111111111120211000002100000211211
+1011111111120011111111111111111111120021111110112000001111111112001111111001111111200011100000111111
+0000211111111111111121211111111111110011111100011100000211110000021111112200211111100211000000211111
+0002111111111111111111111111111111112111111120021200000111120000011112111122111111002112200002110211
+0121111111111202111111111111111111111111111111111110000211111000001111021111111112200111110001110111
+0011111111111111111111111111111111111111121111111112202111111000002111111111111111100211110001111111
+1000211111110211111110210111110211110212111111110011111111021122021111111111111111102111120002111111
+1100002111220211121120212111121011121111111111111211111110111111111111110011111111111111110021111111
+0022200202111111111121111111111021111111011111111111111001111111111111110001111111111111120211111111
+0111112210111111110111110211111121021110211111111111110211111111111111120001111002112111101111111120
+0111111100111111102121111011111111111111000111111110000111111100001111021212112002111111001102111110
+0020211120011121111111110021211001111112200212111120000211111222200112111111111021111112002111111101
+1111111110002111102111200211112001110211101111111100000021111111120210111120011111002111021111111201
+0111111112021111021111002111021202121112111121111200000001111111111111111100211112202112111111111200
+1111021111111111111112212111111210111111112111111000000000000111112111111200021111102111111202111110
+1011111111111111111111111111111112111111111111111200000000002111111111111100000110000002111110002121
+0111111111111112111021111111111111110021111111111110021212111111111112001120002112222200111220000110
+1011010111010100011001101101100001100001100100111001111101111001101100001110011011011010010000100011
+}
